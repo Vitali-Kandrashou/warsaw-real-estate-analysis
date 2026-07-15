@@ -190,7 +190,7 @@ Main steps:
 │   └── 02_apartment_transactions_etl.ipynb
 │
 ├── 📁 PowerBi
-│   └── Warsaw_Real_Estate.pbix
+│   └── Warsaw_Apartment_Market_Dashboard.pbix
 │
 ├── 📁 Images
 │   ├── page_1_apartment_market_overview.png
