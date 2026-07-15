@@ -1,0 +1,33 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+*.parquet
+*.gml
+*.gpkg
+*.geojson
+*.zip
+*.7z
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
